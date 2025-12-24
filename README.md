@@ -41,21 +41,13 @@ Key components include:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/wind-forecasting.git
-cd wind-forecasting
-
-# Install required R packages
-install.packages(c("e1071", "caret", "ggplot2"))
+git clone https://github.com/yourusername/Wind-Generation-forecasting-based-on-Meteorological-Information-R.git
+cd Wind-Generation-forecasting-based-on-Meteorological-Information-R
 ```
 
 ## Usage
 
-1. Load the dataset in R.
-2. Run the forecasting script:
-
-```R
-source("wind_forecasting.R")
-```
+Pls reach out in case the results in the report need to be recreated
 
 3. Model outputs wind power predictions for the next 48 hours.
 4. Visualizations of predicted vs actual generation are generated automatically.
@@ -78,8 +70,19 @@ source("wind_forecasting.R")
 * Integrate additional meteorological variables for better performance.
 * Deploy as a real-time forecasting system for operational wind farms.
 
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@software{Wind-Generation-forecasting-based-on-Meteorological-Information-R,
+  author = {Shubhan Mital},
+  title = {Wind Generation forecasting based on Meteorological Information R},
+  year = {2025},
+  url = https://github.com/Shubhanflash22/Wind-Generation-forecasting-based-on-Meteorological-Information-R.git
+}
+```
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Do you want me to do that?
