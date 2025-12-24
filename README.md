@@ -49,9 +49,6 @@ cd Wind-Generation-forecasting-based-on-Meteorological-Information-R
 
 Pls reach out in case the results in the report need to be recreated
 
-3. Model outputs wind power predictions for the next 48 hours.
-4. Visualizations of predicted vs actual generation are generated automatically.
-
 ## Models
 
 * **BCD Classifier:** Handles classification of non-stationary patterns in wind data.
